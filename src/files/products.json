@@ -1,0 +1,126 @@
+[
+	{
+		"title": "Bomba de agua",
+		"description": "Bomba de agua SKF para Peugeot y Citroen",
+		"code": "FA-001",
+		"price": 7500,
+		"status": true,
+		"stock": 3,
+		"category": "Motor",
+		"thumbnails": "https://http2.mlstatic.com/D_NQ_NP_873169-MLA41832295855_052020-O.webp",
+		"id": "d0eb9086-54ca-49cc-8850-cc4ea16c61be"
+	},
+	{
+		"title": "Bujía",
+		"description": "Bujía Bosch para Peugeot y Citroen",
+		"code": "BA-002",
+		"price": 970,
+		"status": true,
+		"stock": 60,
+		"category": "Motor",
+		"thumbnails": "https://http2.mlstatic.com/D_NQ_NP_884061-MLA31909890241_082019-O.webp",
+		"id": "752a3082-639b-4c0b-8070-50e73e1a2668"
+	},
+	{
+		"title": "Bateria 75*12",
+		"description": "Bateria 75*12 Willard para Todos los Vehiculos",
+		"code": "PF-003",
+		"price": 26000,
+		"status": true,
+		"stock": 5,
+		"category": "Electricidad",
+		"thumbnails": "https://http2.mlstatic.com/D_NQ_NP_691388-MLA51840548559_102022-O.webp",
+		"id": "79dc2551-fed5-4482-b40c-a92200673ac3"
+	},
+	{
+		"title": "Lámpara H7",
+		"description": "Lámpara H7 Philips para Todos los Vehiculos",
+		"code": "PF-004",
+		"price": 1200,
+		"status": true,
+		"stock": 40,
+		"category": "Electricidad",
+		"thumbnails": "https://http2.mlstatic.com/D_NQ_NP_603250-MLA49795366890_042022-O.webp",
+		"id": "1c2f5170-5777-46e3-9a35-4fdefa3d8027"
+	},
+	{
+		"title": "Shampoo",
+		"description": "Shampoo Meguiars para Todos los Vehiculos",
+		"code": "AM-005",
+		"price": 5300,
+		"status": true,
+		"stock": 20,
+		"category": "Limpieza",
+		"thumbnails": "https://store.upsangel.com/wp-content/uploads/2019/05/81JJmRj19yL._SX425_1.jpg",
+		"id": "920db2ef-621e-41d6-80f1-420b8ae08233"
+	},
+	{
+		"title": "Aceite sintetico 0w20",
+		"description": "Aceite sintetico 0w20 ACDelco para Chevrolet",
+		"code": "FA-006",
+		"price": 7800,
+		"status": true,
+		"stock": 14,
+		"category": "Motor",
+		"thumbnails": "https://http2.mlstatic.com/D_NQ_NP_959104-MLA52578237238_112022-O.webp",
+		"id": "9b6205dc-a9d3-49bb-a64c-b89410805a96"
+	},
+	{
+		"title": "Lámpara de faro",
+		"description": "Lámpara de faro halógena de repuesto",
+		"code": "LF-007",
+		"price": 19.99,
+		"status": true,
+		"stock": 25,
+		"category": "Repuestos",
+		"thumbnails": [
+			"https://example.com/images/lampara_faro_1.jpg",
+			"https://example.com/images/lampara_faro_2.jpg"
+		],
+		"id": "03d717b2-1894-472f-9529-c9c7e1c7bcc1"
+	},
+	{
+		"title": "Bomba de freno Aluminio Bora 2.0",
+		"description": "Bomba de freno Aluminio Volkswagen Bora 2.0",
+		"code": "RA-008",
+		"price": 30210,
+		"status": true,
+		"stock": 1,
+		"category": "Frenos",
+		"thumbnails": "https://http2.mlstatic.com/D_NQ_NP_940274-MLA53433663169_012023-O.webp",
+		"id": "5cb368e9-3a4f-4116-869a-e25eed732d44"
+	},
+	{
+		"title": "Aceite sintetico 0w30",
+		"description": "Aceite sintetico 0w30 para Volkswagen Amarok",
+		"code": "AM-009",
+		"price": 16574,
+		"status": true,
+		"stock": 15,
+		"category": "Motor",
+		"thumbnails": "https://shop11223.sfstatic.io/upload_dir/shop/_thumbs/Shell-Helix-Ultra-ECT-C2-C3---4-Liter.w610.h610.fill.jpg",
+		"id": "a2fbfdd7-dcc3-433d-8182-efda12bec24e"
+	},
+	{
+		"title": "Pomo palanca + suplemento",
+		"description": "Pomo palanca + suplemento para Peugeot 408",
+		"code": "SO-010",
+		"price": 4050,
+		"status": true,
+		"stock": 5,
+		"category": "Carroceria",
+		"thumbnails": "https://http2.mlstatic.com/D_NQ_NP_990057-MLA52167677426_102022-O.webp",
+		"id": "b9a5c2cf-10eb-4915-b126-afba81ad10de"
+	},
+	{
+		"title": "Antena 40cm",
+		"description": "Antena 40cm Generica para para Todos los Vehiculos",
+		"code": "AM-009",
+		"price": 1599,
+		"status": true,
+		"stock": 10,
+		"category": "Electricidad",
+		"thumbnails": "https://http2.mlstatic.com/D_NQ_NP_883881-MLA48317442661_112021-O.webp",
+		"id": "a2fbfdd7-dcc3-433d-8182-efda12bec24e"
+	}
+]

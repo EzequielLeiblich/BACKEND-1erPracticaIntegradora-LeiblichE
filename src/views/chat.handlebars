@@ -1,0 +1,16 @@
+<h1>Chat</h1>
+
+<div id="chat-container">
+    {{#each messages}}
+        <div class="message">
+        <span class="user">{{user}}</span>
+        <span class="content">{{message}}</span>
+        </div>
+    {{/each}}
+</div>
+
+<form id="chat-form">
+<input type="text" id="user-input" placeholder="Usuario">
+<input type="text" id="message-input" placeholder="Mensaje">
+<button type="submit">Enviar</button>
+</form>
